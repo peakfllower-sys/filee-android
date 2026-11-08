@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filee</string>
+    <string name="share_convert_label">用 Filee 转换格式</string>
+</resources>

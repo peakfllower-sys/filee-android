@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F6F5F1"
+        android:pathData="M256,256m-248,0a248,248 0,1 1,496 0a248,248 0,1 1,-496 0" />
+    <!-- Top Donut Slice -->
+    <path
+        android:fillColor="#7F77DD"
+        android:strokeColor="#7F77DD"
+        android:strokeWidth="18"
+        android:strokeLineJoin="round"
+        android:pathData="M169.99,71.02 A204,204 0 0,1 342.01,71.02 L297.71,147.76 A116,116 0 0,0 214.29,147.76 Z" />
+    <!-- Top-Right Green Popped Donut Slice -->
+    <path
+        android:fillColor="#1D9E75"
+        android:strokeColor="#1D9E75"
+        android:strokeWidth="18"
+        android:strokeLineJoin="round"
+        android:pathData="M383.58,83.02 A204,204 0 0,1 469.59,232.00 L380.98,232.00 A116,116 0 0,0 339.28,159.76 Z" />
+    <!-- Bottom-Right Donut Slice -->
+    <path
+        android:fillColor="#8179E6"
+        android:strokeColor="#8179E6"
+        android:strokeWidth="18"
+        android:strokeLineJoin="round"
+        android:pathData="M459.20,274.00 A204,204 0 0,1 373.19,422.98 L328.89,346.24 A116,116 0 0,0 370.59,274.00 Z" />
+    <!-- Bottom Donut Slice -->
+    <path
+        android:fillColor="#5F59A6"
+        android:strokeColor="#5F59A6"
+        android:strokeWidth="18"
+        android:strokeLineJoin="round"
+        android:pathData="M342.01,440.98 A204,204 0 0,1 169.99,440.98 L214.29,364.24 A116,116 0 0,0 297.71,364.24 Z" />
+    <!-- Bottom-Left Donut Slice -->
+    <path
+        android:fillColor="#8179E6"
+        android:strokeColor="#8179E6"
+        android:strokeWidth="18"
+        android:strokeLineJoin="round"
+        android:pathData="M138.81,422.98 A204,204 0 0,1 52.80,274.00 L141.41,274.00 A116,116 0 0,0 183.11,346.24 Z" />
+    <!-- Top-Left Donut Slice -->
+    <path
+        android:fillColor="#5F59A6"
+        android:strokeColor="#5F59A6"
+        android:strokeWidth="18"
+        android:strokeLineJoin="round"
+        android:pathData="M52.80,238.00 A204,204 0 0,1 138.81,89.02 L183.11,165.76 A116,116 0 0,0 141.41,238.00 Z" />
+    <!-- Center Document Icon -->
+    <path
+        android:fillColor="#3C3489"
+        android:strokeColor="#3C3489"
+        android:strokeWidth="10"
+        android:strokeLineJoin="round"
+        android:pathData="M227,217 H262 L285,240 V295 H227 Z" />
+    <path
+        android:fillColor="#C9C4F7"
+        android:strokeColor="#C9C4F7"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:pathData="M262,217 V240 H285 Z" />
+</vector>
